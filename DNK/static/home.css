@@ -1,0 +1,89 @@
+body {
+  background-color: #e2725b;
+  font-family: optima;
+}
+
+.bg {
+  --bs-bg-opacity: 1;
+  background-color: #e1e6e1;
+}
+
+#navBar {
+  background-color: #e1e6e1;
+  margin-top: 10px;
+}
+
+#introduction {
+  margin-top: 70px;
+}
+
+.me-2 {
+  margin-left: 10px;
+}
+
+.form-group {
+  margin-top: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.output {
+  margin-top: 20px;
+  padding: 5px;
+  border: 1px solid #e1e6e1;
+  border-radius: 5px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  background-color: #e1e6e1;
+  overflow: hidden;
+}
+
+.text {
+  margin-top: 70px;
+}
+
+.btn-upload {
+  --bs-btn-color: #e1e6e1;
+  --bs-btn-bg: #3f826d;
+  --bs-btn-border-color: #3f826d;
+  --bs-btn-hover-color: #3f826d;
+  --bs-btn-hover-bg: #3f826d;
+  --bs-btn-hover-border-color: #3f826d;
+  --bs-btn-focus-shadow-rgb: #3f826d;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #3f826d;
+  --bs-btn-active-border-color: #3f826d;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #3f826d;
+  --bs-btn-disabled-border-color: #3f826d;
+  margin-top: 20px;
+}
+
+.bg-f {
+  --bs-bg-opacity: 1;
+  background-color: #e1e6e1;
+  margin-top: 100%;
+}
+
+.form-control-file {
+  font-size: xx-small;
+}
+
+.btn-download {
+  background-color: #3f826d;
+  border: none;
+  border-radius: 5px;
+  color: #e1e6e1;
+  padding: 13px 17px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.btn-download:hover {
+  background-color: #e1e6e1;
+}
